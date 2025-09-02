@@ -8,8 +8,6 @@ Além do código, sou um entusiasta de artes visuais e música.
 
 ### Minhas estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DCArthur&show_icons=true&theme=radical)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DCArthur&layout=compact&theme=radical)
 
 ---
