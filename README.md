@@ -1,10 +1,10 @@
-### Olá! Sou o Arthur Duarte 👋
+### Olá, sou o Arthur Duarte! ✨
 
-**Desenvolvedor de software** e estudante de Análise e Desenvolvimento de Sistemas no IFTO.
+Desenvolvo software e estou me graduando em Análise e Desenvolvimento de Sistemas no IFTO. 🎓
 
-Atualmente, meu foco está em **Ciência de Dados**, **Inteligência Artificial** e **automações**, explorando cada vez mais o poder do Python.
+Meu interesse principal é na área de **Dados**, **IA** e **automações**, e estou sempre aprofundando meus conhecimentos em **Python**. 🐍
 
-Além do código, sou um entusiasta de artes visuais e música.
+Além de programar, sou apaixonado por artes visuais e música. 🎨🎶
 
 ### Minhas estatísticas no GitHub
 
